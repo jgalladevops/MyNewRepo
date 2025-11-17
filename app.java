@@ -3,6 +3,7 @@ public class Main {
        System.out.println("Hello World");
    }
 }
+
 //dev2 push from local
 public class AddTwoIntegers {
    public static void main(String[] args) {
@@ -12,3 +13,6 @@ public class AddTwoIntegers {
        System.out.println("The sum is: " + sum);
    }
 }
+=======
+
+dev2 code is added
